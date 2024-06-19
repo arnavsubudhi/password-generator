@@ -11,7 +11,7 @@ A simple web-based password generator that allows users to generate strong rando
 
 ## Demo
 
-You can see a live demo of the project [here](https://your-demo-link.com).
+You can see a live demo of the project [here](https://passwdgenproject.netlify.app/).
 
 ## Installation
 
